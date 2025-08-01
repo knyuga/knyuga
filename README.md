@@ -41,6 +41,14 @@ HerScript: Member
 
 I lead with purpose and community. Whether through organizing outreach events or mentoring peers, I aim to make tech more inclusive and supportive for all.
 
+🏆 Achievements
+
+Selected from 3000+ applicants for the Break Through Tech AI Program
+
+Organized 100+ hours of service events with ABCS
+
+Built ML models for NLP and computer vision through BreakThroughTech, AT&T, and WiSTEM programs
+
 💬 Interests
 
 When I'm not coding or exploring AI, I love listening to music, photography, reading and line dancing with friends.
@@ -52,15 +60,6 @@ Email: kennanyuga@utexas.edu
 LinkedIn: linkedin.com/in/knyuga
 
 Location: Austin, TX
-
-
-🏆 Achievements
-
-Selected from 3000+ applicants for the Break Through Tech AI Program
-
-Organized 100+ hours of service events with ABCS
-
-Built ML models for NLP and computer vision through BreakThroughTech, AT&T, and WiSTEM programs
 
 
 Thanks for visiting my profile — let’s build something impactful together!
